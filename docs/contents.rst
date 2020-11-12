@@ -11,11 +11,29 @@ Table Of Contents
    Introduction/Important
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
-   :caption: XML Formatting
+   :caption: Stages.XML
    
-   Configuration/Stages
-   Configuration/Unlocks
+   Stages/Stages_Intro
+   Stages/Stages_Catagories
+   Stages/Stages_Stages
+
+.. toctree::
+   :maxdepth: 3
+   :glob:
+   :caption: Stage Modules
+   
+   Modules/Stages_AboutModules
+   Modules/Stages_WaterModule
+   Modules/Stages_TitleCardModule
+
+
+.. toctree::
+   :maxdepth: 3
+   :glob:
+   :caption: Unlocks.XML
+
+   Unlocks/Unlocks_UnlockSets
 
 

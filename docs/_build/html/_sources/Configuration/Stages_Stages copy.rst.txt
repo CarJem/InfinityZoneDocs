@@ -1,0 +1,25 @@
+Stages
+=========================================
+
+<Stage>
+-------------
+
+* **stageKey**: **TODO**
+* **stageName**: **TODO**
+* **stageDir**: **TODO**
+
+<StageUnlocks>
+-------------
+
+**TODO**
+
+<StageAssets> / <Asset>
+-------------
+
+**TODO**
+
+* **basePath**: **TODO**
+* **newPath**: **TODO**
+
+
+

@@ -1,0 +1,68 @@
+Essentials
+=========================================
+
+**TODO**
+
+<InfinityZone>
+-------------
+
+* **version**: **TODO**
+
+<Catagories>
+-------------
+
+**TODO**
+
+<Stages>
+-------------
+
+**TODO**
+
+
+Catagories
+=========================================
+
+<Catagory>
+-------------
+
+* **categoryName**: **TODO**
+
+<Group>
+-------------
+
+* **groupName**: **TODO**
+
+<Scene>
+-------------
+
+* **stageKey**: **TODO**
+* **sceneKey**: **TODO**
+* **sceneID**: **TODO**
+* **sceneFlags**: **TODO**
+* **sceneName**: **TODO**
+
+Stages
+=========================================
+
+<Stage>
+-------------
+
+* **stageKey**: **TODO**
+* **stageName**: **TODO**
+* **stageDir**: **TODO**
+
+<StageUnlocks>
+-------------
+
+**TODO**
+
+<StageAssets> / <Asset>
+-------------
+
+**TODO**
+
+* **basePath**: **TODO**
+* **newPath**: **TODO**
+
+
+
