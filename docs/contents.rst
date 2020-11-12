@@ -7,20 +7,15 @@ Table Of Contents
    :caption: Getting Started
    
    index
-   introduction/intro
+   Introduction/Setup
+   Introduction/Important
    
 .. toctree::
    :maxdepth: 1
    :glob:
    :caption: Main Features
    
-   mainfeatures/parallaxEditing
-
-.. toctree::
-   :maxdepth: 1
-   :glob:
-   :caption: Entities Documentation
-
-   entities/*
+   Configuration/Stages
+   Configuration/Unlocks
 
 

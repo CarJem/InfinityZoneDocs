@@ -24,6 +24,7 @@ author = 'CarJem Generations'
 # The full version, including alpha/beta/rc tags
 release = 'N/A'
 
+master_doc = 'contents'
 
 # -- General configuration ---------------------------------------------------
 
