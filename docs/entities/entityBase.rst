@@ -1,8 +1,0 @@
-
-
-# Object
-## Bio: 
-
-
-## Attributes:
-
