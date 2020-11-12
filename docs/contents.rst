@@ -6,14 +6,14 @@ Table Of Contents
    :glob:
    :caption: Getting Started
    
-   index
+   Index
    Introduction/Setup
    Introduction/Important
    
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Main Features
+   :caption: XML Formatting
    
    Configuration/Stages
    Configuration/Unlocks
