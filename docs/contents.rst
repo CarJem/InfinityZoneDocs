@@ -13,7 +13,7 @@ Table Of Contents
 .. toctree::
    :maxdepth: 3
    :glob:
-   :caption: Stages.XML
+   :caption: Stage Configuation
    
    Stages/Stages_Intro
    Stages/Stages_Catagories
@@ -22,14 +22,15 @@ Table Of Contents
 .. toctree::
    :maxdepth: 3
    :glob:
-   :caption: Unlocks.XML
+   :caption: Zone Unlocks
 
    Unlocks/Unlocks_UnlockSets
+   Unlocks/Unlocks_UnlockCodes
 
 .. toctree::
    :maxdepth: 3
    :glob:
-   :caption: Modules (Stage.XML)
+   :caption: Stage Modules
    
    Modules/Stages_AboutModules
    Modules/Stages_WaterModule
