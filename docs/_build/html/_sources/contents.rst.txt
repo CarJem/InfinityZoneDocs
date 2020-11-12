@@ -22,18 +22,17 @@ Table Of Contents
 .. toctree::
    :maxdepth: 3
    :glob:
-   :caption: Stage Modules
-   
-   Modules/Stages_AboutModules
-   Modules/Stages_WaterModule
-   Modules/Stages_TitleCardModule
+   :caption: Unlocks.XML
 
+   Unlocks/Unlocks_UnlockSets
 
 .. toctree::
    :maxdepth: 3
    :glob:
-   :caption: Unlocks.XML
-
-   Unlocks/Unlocks_UnlockSets
+   :caption: Modules (Stage.XML)
+   
+   Modules/Stages_AboutModules
+   Modules/Stages_WaterModule
+   Modules/Stages_TitleCardModule
 
 
