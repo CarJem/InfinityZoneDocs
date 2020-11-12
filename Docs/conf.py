@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Maniac Editor'
-copyright = '2019, CarJem Generations'
+project = 'InfinityZone API'
+copyright = '2020, CarJem Generations / SuperSonic16'
 author = 'CarJem Generations'
 
 # The full version, including alpha/beta/rc tags
