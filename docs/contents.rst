@@ -11,7 +11,7 @@ Table Of Contents
    Introduction/Important
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
    :caption: Main Features
    
